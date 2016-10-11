@@ -31,7 +31,7 @@ gem 'omniauth-oauth2', '~> 1.3.1'
 
 gem 'nokogiri'
 
-gem 'rspotify', git: 'https://github.com/Austin-Dorff/rspotify.git'
+gem 'rspotify'
 
 gem "discogs-wrapper"
 
